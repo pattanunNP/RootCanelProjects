@@ -1,5 +1,3 @@
-/Train/
-/Train/teeth
-/Test/
-/Val/
-
+.ipynb_checkpoints
+ngrok/
+./mycert.pem
